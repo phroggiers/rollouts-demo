@@ -1,5 +1,5 @@
 done = function(summary, latency, requests)
-    fmtstring = 
+    fmtstring =
 [[{
   "duration_seconds":%.2f,
   "requests_total":%d,
